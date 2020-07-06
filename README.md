@@ -10,3 +10,6 @@
 - `ketik unzip Gamers.zip`
 - `cd Gamers`
 - `python3 game.py`
+
+My ID line
+https://line.me/ti/p/~switchkiler
